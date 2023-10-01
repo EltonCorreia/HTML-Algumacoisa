@@ -1,0 +1,32 @@
+body{
+
+    font-family: Verdana;
+    background-image: url("../Imagens/YOTSUBA.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+}
+
+/*Comentar no CSS be like:*/
+
+#pClipe{
+
+text-align: center;
+color: aquamarine;
+font-weight: bold;
+
+}
+
+h1, h2{
+
+    color: coral;
+    font-family: calibri;
+    font-size: 20pt;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    margin-left: 30px;
+    padding-left: 30px;
+
+}
